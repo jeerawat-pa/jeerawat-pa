@@ -49,7 +49,7 @@
 
 ## 🌟 About Me
 <p>
-  I am a passionate developer with expertise in creating dynamic and responsive web applications. With experience in both front-end and back-end development, I bring comprehensive solutions to the table.
+  If you want to change something, You must dare to be creative and constantly try new things.
 </p>
 
 ---
