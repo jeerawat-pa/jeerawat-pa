@@ -55,10 +55,16 @@
 
 ### Basic Network
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cisco/cisco-original.svg" alt="Cisco" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/ZTE_logo.svg/1200px-ZTE_logo.svg.png" alt="ZTE" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Huawei_logo_2018.svg/1280px-Huawei_logo_2018.svg.png" alt="Huawei" width="40" height="40"/>
+  <img src="https://cdn.iconscout.com/icon/free/png-512/free-cisco-icon-download-in-svg-png-gif-file-formats--logo-brand-world-logos-vol-1-pack-icons-282320.png?f=webp&w=256" alt="Cisco" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/ZTE-logo.svg/400px-ZTE-logo.svg.png" alt="ZTE" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Huawei_Standard_logo.svg/126px-Huawei_Standard_logo.svg.png?20190815073546" alt="Huawei" width="40" height="50"/>
 </p>
+
+
+
+
+
+
 
 ---
 
