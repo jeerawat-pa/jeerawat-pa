@@ -53,3 +53,28 @@
   <strong>LinkedIn:</strong> [Your LinkedIn Profile](#)<br>
   <strong>GitHub:</strong> [Your GitHub Profile](#)
 </p>
+
+---
+
+## 📈 GitHub Stats
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DenverCoder1&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenverCoder1&theme=radical&langs_count=8&layout=compact"/>
+</div>
+
+---
+
+## 🚀 Achievements
+- **100+** repositories created
+- **2000+** followers on GitHub
+- **500+** contributions in the past year
+
+---
+
+## 🛠️ Tech Stack
+- **Programming Languages**: Python, JavaScript, HTML5, CSS3, PHP
+- **Frontend**: React, Vue.js, Bootstrap
+- **Backend**: Node.js, Express.js, PHP
+- **Databases**: MySQL, Oracle
+- **Tools**: Docker, Git, Linux
+- **Platforms**: GitHub, GitLab, Docker Hub
