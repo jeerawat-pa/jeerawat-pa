@@ -1,54 +1,55 @@
-<h1 align="center">🚀 My Awesome Project</h1>
+<h1 align="center">🚀 My Skills Portfolio</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/your-username/your-repo?style=for-the-badge" alt="Stars">
-  <img src="https://img.shields.io/github/forks/your-username/your-repo?style=for-the-badge" alt="Forks">
-  <img src="https://img.shields.io/github/license/your-username/your-repo?style=for-the-badge" alt="License">
+  A showcase of my technical skills and expertise.
 </p>
-
-<p align="center">A short description of your project goes here.</p>
 
 ---
 
-## 📌 Features
-✅ Feature 1  
-✅ Feature 2  
-✅ Feature 3  
+## 🛠 Skills
 
-## 🛠 Installation
-```bash
-# Clone this repository
-git clone https://github.com/your-username/your-repo.git
-
-# Navigate to the project folder
-cd your-repo
-
-# Install dependencies
-npm install
-```
-
-## 📷 Screenshots
-<p align="center">
-  <img src="https://via.placeholder.com/800x400" alt="Screenshot 1">
+### Programming Languages
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
 </p>
 
-## 👨‍💻 Usage
-```bash
-npm start
-```
+### Frameworks & Libraries
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
+</p>
 
-## 🤝 Contributing
-1. Fork this repository
-2. Create a new branch (`feature-xyz`)
-3. Commit your changes (`git commit -m 'Add feature xyz'`)
-4. Push to the branch (`git push origin feature-xyz`)
-5. Open a Pull Request
+### Tools & Platforms
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+</p>
 
-## 📜 License
-This project is licensed under the MIT License.
+### Databases
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/>
+</p>
 
-## 🌎 Connect with Me
-<p align="center">
-  <a href="https://twitter.com/your-profile"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"></a>
-  <a href="https://github.com/your-username"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"></a>
+---
+
+## 🌟 About Me
+<p>
+  I am a passionate developer with expertise in creating dynamic and responsive web applications. With experience in both front-end and back-end development, I bring comprehensive solutions to the table.
+</p>
+
+---
+
+## 📞 Contact Me
+<p>
+  <strong>Phone:</strong> 082-496-9547<br>
+  <strong>Email:</strong> jeerawat.panmang@gmail.com<br>
+  <strong>LinkedIn:</strong> [Your LinkedIn Profile](#)<br>
+  <strong>GitHub:</strong> [Your GitHub Profile](#)
 </p>
