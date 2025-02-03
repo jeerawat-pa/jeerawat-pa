@@ -65,6 +65,7 @@
 ## 🌟 Certificate
 <p>
 <img src="certificate.jpg" alt="Certificate" width="300" height="200"/>
+<img src="certificate2.jpg" alt="Certificate" width="300" height="200"/>
 </p>
 
 ---
