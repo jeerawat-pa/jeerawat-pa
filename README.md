@@ -1,8 +1,6 @@
-<h1><img src="https://hbobis.wordpress.com/wp-content/uploads/2015/12/animation-rocket.gif" width="50"/> Jeerawat Panmang 
-</h1>
+<h1><img src="https://hbobis.wordpress.com/wp-content/uploads/2015/12/animation-rocket.gif" width="50"/> Jeerawat Panmang</h1>
 
-<h1>Full Stack Developer <br>Welcome To My Work.</br>
-</h1>
+<h1>Full Stack Developer <br>Welcome To My Work.</br></h1>
 
 <h3>Things I code with</h3>
 <p>
@@ -43,6 +41,7 @@
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" alt="MariaDB" width="40" height="40"/>
 </p>
 
 ### Operating System
@@ -50,7 +49,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle Linux" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" alt="Ubuntu Linux" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg" alt="CentOS Linux" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg" alt="Windows" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" alt="MacOS" width="40" height="40"/>
+</p>
+
+### Basic Network
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cisco/cisco-original.svg" alt="Cisco" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/ZTE_logo.svg/1200px-ZTE_logo.svg.png" alt="ZTE" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Huawei_logo_2018.svg/1280px-Huawei_logo_2018.svg.png" alt="Huawei" width="40" height="40"/>
 </p>
 
 ---
@@ -70,6 +77,7 @@
 </p>
 
 ---
+
 ## 🛠️ Tech Stack
 - **Programming Languages**: Python, JavaScript, HTML5, CSS3, PHP
 - **Frontend**: React, Vue.js, Bootstrap
